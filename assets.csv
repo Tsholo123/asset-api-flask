@@ -1,1 +1,7 @@
-
+asset_id,asset_name,asset_type,assigned_to,status
+A001,Dell Latitude 5420,Laptop,Admin Office,Assigned
+A002,HP LaserJet Pro,Printer,Finance Unit,Assigned
+A003,Lenovo ThinkCentre,Desktop,,Available
+A004,Cisco Router,Router,Network Room,Maintenance
+A005,MacBook Air,Laptop,HR Office,Assigned
+A006,Epson Projector,Projector,,Available
